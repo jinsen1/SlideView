@@ -19,6 +19,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**一个测试的例子*/
 public class MainActivity extends Activity implements OnItemClickListener, OnClickListener,
         OnSlideListener {
     private static final String TAG = "MainActivity";
