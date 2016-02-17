@@ -11,6 +11,8 @@ import android.widget.RelativeLayout;
 import android.widget.Scroller;
 import android.widget.TextView;
 
+/**测试一下git*/
+
 public class SlideView extends LinearLayout {
 
 	private static final String TAG = "SlideView";
